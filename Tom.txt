@@ -3,3 +3,5 @@ Country: NZ
 
 Story of his life:
 Nobody liked him
+
+Height: 180cm
