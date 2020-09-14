@@ -3,3 +3,5 @@ Country: USA
 
 Story:
 Happy 
+
+Height: 180cm
