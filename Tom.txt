@@ -1,2 +1,0 @@
-Age: 70
-Country: NZ
